@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "db.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'db.driver'"
+  },
+  {
+    "name": "entityManagerFactory",
+    "type": "java.lang.String",
+    "description": "A description for 'entityManagerFactory'"
+  }
+]}
